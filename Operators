@@ -1,0 +1,3 @@
+x = 10 # integer value 10 is assigned to a variable X
+y = 20 # integer value 20 is assigned to a variable y
+print("Addition of X+Y is:", x+y) # performs Addition operation and printing the value
